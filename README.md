@@ -4,7 +4,7 @@ A practical penetration-testing lab completed on TryHackMe.
 
 ## 🎯 Objective
 
-The objective of this room was to assess a vulnerable target, identify weaknesses through enumeration, obtain initial access, and escalate privileges.
+The objective of this room was to assess a vulnerable target, identify weaknesses through enumeration, obtain initial access, and escalate privileges, with idea of forensics you should use the impacket to decrypt file and encrypt file also you should do python script for crypto cipher
 
 ## 🖥️ Lab Information
 
